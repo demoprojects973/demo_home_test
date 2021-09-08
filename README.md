@@ -8,6 +8,17 @@ Demonstrates the change password validator function which checks the below condi
 4. No more than 4 special characters
 5. 50 % of password should not be a number
 
+Steps to run the spring boot application
+
+1. Install maven if not already installed.
+2. Run the below commands to start the application.
+
+```
+mvn clean
+```
+```
+mvn org.springframework.boot:spring-boot-maven-plugin:run
+```
 Usage:
 
 1. Register User: To create a new user, call the following API
