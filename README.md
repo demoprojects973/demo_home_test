@@ -8,6 +8,12 @@ Demonstrates the change password validator function which checks the below condi
 4. No more than 4 special characters
 5. 50 % of password should not be a number
 
+Prerequisites:
+
+1. JAVA-8
+2. Maven
+3. Set JAVA_HOME and MVN_HOME and exported to PATH variable.
+
 Steps to run the spring boot application
 
 1. Install maven if not already installed.
